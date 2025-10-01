@@ -1,4 +1,4 @@
-# Text To Image (Indian) 🎨🇮🇳
+# Text To Image (Indian) 
 
 This project generates images from text prompts using Indian-themed datasets.  
 It is built in Python using Jupyter Notebook and can be run easily on **Google Colab**.
@@ -53,11 +53,6 @@ You can view the notebook on GitHub, but outputs may not render due to limitatio
 
 ---
 
-## 💡 Tips for Beginners
-
-- Keep your prompts short and clear for better image quality.
-- If running locally, make sure you have all dependencies installed (see `requirements.txt`).
-- Use Colab for GPU acceleration.
 
 ---
 
@@ -70,23 +65,12 @@ You can view the notebook on GitHub, but outputs may not render due to limitatio
 
 ---
 
-## 🏷️ License
 
-Specify your license here (e.g., MIT License).
-
----
 
 ## 📌 Notes
 
 - Notebook is clean and ready to run on Colab.
 - Outputs are not included in GitHub for clean rendering.
 - Users can generate outputs themselves by running the notebook.
-Next Steps for You:
 
-Save this as README.md in your project folder.
 
-Commit and push:
-
-git add README.md
-git commit -m "Add polished README for Text-To-Image-Indian project"
-git push origin main
